@@ -1,4 +1,4 @@
-# xiaocheng
+# Xiaocheng
 My portfolio page. 
 
 # About me
