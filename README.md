@@ -12,12 +12,15 @@ With all the data visualization and storytelling technique I will be learning, I
 
 # Portfolio
 This is my portfolio for Telling Story with Data at CMU!
+
 ## 1. First item in portfolio 
    - First nested list item
      - Second nested list item
+
 ## 2. Second item in portfolio
    - First nested list item
      - Second nested list item
+
 ## 3. Third item in portfolio
    - First nested list item
      - Second nested list item## Final project 
