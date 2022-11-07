@@ -14,8 +14,7 @@ With all the data visualization and storytelling technique I will be learning, I
 This is my portfolio for Telling Story with Data at CMU!
 
 ## 1. General government debt 
-   - <iframe src="https://data.oecd.org/chart/6SeJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SeJ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
-     - 
+ <iframe src="https://data.oecd.org/chart/6SeK" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SeK" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 ## 2. Second item in portfolio
    - First nested list item
