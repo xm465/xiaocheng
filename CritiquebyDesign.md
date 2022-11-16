@@ -20,9 +20,19 @@ I think this method is generally successful, but still can be improved.
 1. I would change the color of the second graph to red to indicate losses. For the first graph, I would like to use color to highlight the increase in victims from 2019 to 2020.
 2. I would like to change to title of the charts as well as the labels of the second graph. 
 
-## Sketch out a solution
+## Step three - Sketch out a solution
 
 <div class='tableauPlaceholder' id='viz1668641224482' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;El&#47;ElderFraud&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ElderFraud&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;El&#47;ElderFraud&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
+
+First, I have added the title for both charts to make them more meaningful and easy to follow. The focus for the first chart is on its dramatic increase from 2019 - 2020, therefore I emphasized this in the title. For the primary audience who are the police officials work for the government, they should probably pay more attention to this recent drastic increase in elder fraud victims. The graph is more engaging to them, and they might want to explore more on what causes such increases after reading the charts. 
+
+Second, I change the color from green to red and yellow. Because people would relate green to more positive events, instead of fraud victims. By changing the color, the charts would make more sense to the lay audience intuitively. 
+
+Moreover, I changed the labels on the y-axis of both charts to make it easier to read. I have also labelled each bar accordingly. For the first chart, I labelled the number of victims in 2020 to enhance the title. 
+
+
+
+
 
 
 
