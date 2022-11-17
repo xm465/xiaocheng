@@ -17,7 +17,7 @@ I think the data visualization is clear and not distracting anyone with too much
 The primary audience would be people who work for the government and the FBI because they use the data to monitor crimes and find out ways to eliminate the crimes.  I think it works because it sends out the information that there are more victims over 60 years old in the year 2020 than in the previous 5 years. The chart itself is not hard to comprehend, while the line charts and bar charts give distinct trends. 
 
 I think this method is generally successful, but still can be improved. 
-1. I would change the color of the second graph to red to indicate losses. For the first graph, I would like to use color to highlight the increase in victims from 2019 to 2020.
+1. I would change the color of the second graph to red to indicate losses. For the first graph, I would like to highlight the increase in victims from 2019 to 2020.
 2. I would like to change to title of the charts as well as the labels of the second graph. 
 
 ## Step three - Sketch out a solution
@@ -30,9 +30,18 @@ Second, I change the color from green to red and yellow. Because people would re
 
 Moreover, I changed the labels on the y-axis of both charts to make it easier to read. I have also labelled each bar accordingly. For the first chart, I labelled the number of victims in 2020 to enhance the title. 
 
+##Step four: Test the solution
+
+I have asked 2 student in mid 20s and a friend in mid 30s. All of them think that the change in the titles really helps them to follow the meaning of the graphs. One of them mentioned that she initially thought the graph is about other crimes when she looked at the old design of the chart, and the new version is more straightforward in conveying the theme. They all think that the color change worked well. 
+
+One of them thinks that the y-axis for the first chart has been lifted too high and the starting point should not be 0. There is too much blank under the line chart. One of my classmate said that I can use shades of colors to highlight this year's dramatic increase in victims. She suggest me to also label the victim numbers in 2019 to make the contrast. 
+
+##Step five - Final visualization 
+
+<div class='tableauPlaceholder' id='viz1668644702207' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;El&#47;ElderFraud2&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ElderFraud2&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;El&#47;ElderFraud2&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>  var divElement = document.getElementById('viz1668644702207');  var vizElement = divElement.getElementsByTagName('object')[0];if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);  </script>
 
 
-
+For the final visualization, I have hilighted the dramatic change between 2019 - 2020 with the use of color red and the label of the number of victims in each year. The y-axis starts from 50k, which eliminate the blank space under the line chart and I think it works well. I have also label the min and max losses in the second chart, which shows people how big the differences in losses for the past 5 years. 
 
 
 
