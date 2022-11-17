@@ -39,7 +39,7 @@ One of them thinks that the y-axis for the first chart has been lifted too high 
 
 ## Step five - Final visualization 
 
-[68747470733a2f2f7075626c69632e7461626c6561752e636f6d2f7374617469632f696d616765732f456c2f456c6465724672617564322f44617368626f617264322f315f7273732e706e67](https://user-images.githubusercontent.com/117045839/202324755-4966f822-f847-45f1-a5d8-95f0a801dfce.png)       
+![68747470733a2f2f7075626c69632e7461626c6561752e636f6d2f7374617469632f696d616765732f456c2f456c6465724672617564322f44617368626f617264322f315f7273732e706e67](https://user-images.githubusercontent.com/117045839/202324755-4966f822-f847-45f1-a5d8-95f0a801dfce.png)      
 
 
 For the final visualization, I have hilighted the dramatic change between 2019 - 2020 with the use of color red and the label of the number of victims in each year. The y-axis starts from 50k, which eliminate the blank space under the line chart and I think it works well. I have also label the min and max losses in the second chart, which shows people how big the differences in losses for the past 5 years. 
