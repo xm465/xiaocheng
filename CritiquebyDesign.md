@@ -22,7 +22,7 @@ I think this method is generally successful, but still can be improved.
 
 ## Step three - Sketch out a solution
 
-
+<img width="864" alt="Screen Shot 2022-11-16 at 7 33 15 PM" src="https://user-images.githubusercontent.com/117045839/202324968-5af00f9e-2362-4f98-ac29-12c60d350983.png">
 
 
 First, I have added the title for both charts to make them more meaningful and easy to follow. The focus for the first chart is on its dramatic increase from 2019 - 2020, therefore I emphasized this in the title. For the primary audience who are the police officials work for the government, they should probably pay more attention to this recent drastic increase in elder fraud victims. The graph is more engaging to them, and they might want to explore more on what causes such increases after reading the charts. 
@@ -39,7 +39,7 @@ One of them thinks that the y-axis for the first chart has been lifted too high 
 
 ## Step five - Final visualization 
 
-![68747470733a2f2f7075626c69632e7461626c6561752e636f6d2f7374617469632f696d616765732f456c2f456c6465724672617564322f44617368626f617264322f315f7273732e706e67](https://user-images.githubusercontent.com/117045839/202324755-4966f822-f847-45f1-a5d8-95f0a801dfce.png)      
+<img width="866" alt="Screen Shot 2022-11-16 at 7 32 55 PM" src="https://user-images.githubusercontent.com/117045839/202325068-8772aba1-ce68-4a40-922d-2a0c8f950116.png"> 
 
 
 For the final visualization, I have hilighted the dramatic change between 2019 - 2020 with the use of color red and the label of the number of victims in each year. The y-axis starts from 50k, which eliminate the blank space under the line chart and I think it works well. I have also label the min and max losses in the second chart, which shows people how big the differences in losses for the past 5 years. 
