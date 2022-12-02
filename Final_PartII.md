@@ -8,7 +8,9 @@ My wire framing and story boards is on [shorthand](https://preview.shorthand.com
 
 The target audience would be people who want to be a pet owner or ready to adopt/purchase pets. I hope the story would make them more careful about their decision making in adopting pets. The secondary audience could be vets, social workers, and shelter works because they would be able to communicate with potential pet adopter and tell them about pros, cons, and things to consider. 
 
-My first interviewee is an architect who owns three cat. She has a friend who recently returned a pet to the shelter. 
+I choose interviewees I know who are my target audience. I make effort to make them more diverse in age, gender, financial status, and life experience, because I really want to hear people come from different backgrounds
+
+My first interviewee (30s) is an architect who owns three cat. She has a friend who recently returned a pet to the shelter. 
 
 Interviewee 1
 
@@ -24,8 +26,8 @@ Interviewee 1
 | What question do you have after reading this?   What made you curious?                | Through reading the age charts, I’m curious about more categories like locations(states), genders(LGBTQ),the differences between cats and dogs, social/ethical/regional patterns of abandonment.     |
 |What new inspiration arose? What surprised you?                |  I’m very surprised to see how abandonments have been happening during recent years, more often people care about adoption brings happiness on the light side, but we do need to emphasize the whole lifecycle and process of animal life through improving our mechanism of shelter adoption, which could lower the abandonment rate. We could provide more useful methods like better return policies, and better match/probation between animals and appropriate adopters.     |
 
-My second interviewee is a social worker who care about people and animals. 
-Interviewee 2
+My second interviewee (35s) is a social worker who care about people and animals. 
+Interviewee 2 
 
 | Queations                                                     |Answers        | 
 | ---------------------------------------                       |--------------:|
@@ -39,7 +41,7 @@ Interviewee 2
 | What question do you have after reading this?   What made you curious?                | I am curious on whether or not there could be a more effective way to make people adopt the abandoned pets. Sometimes there would be unexpected problems emerging for pet owners, in such cases, persuading them to not abandon pets seems inadequate.    |
 |What new inspiration arose? What surprised you?                | I am surprised by the amount of pets abandoned by their owners. It is rarely discussed in online forums of pet lovers. I think maybe we could also work on how to  establish an environment comfortable enough to talk about the problems and frustrations of raising a pet, this way owners might not make the decision so quickly.  |
 
-My third interviewee is a classmate who told me once that she wants to adopt a dog. 
+My third interviewee(20s) is a classmate who told me once that she wants to adopt a dog. 
 Interviewee 2
 
 | Queations                                                     |Answers        | 
