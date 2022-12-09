@@ -1,6 +1,6 @@
 # Final Project
 
-## Shorthand 
+## Final Project Part III - Shorthand 
 
 [This is my final data story.](https://carnegiemellon.shorthandstories.com/how-to-not-abandon-your-pets/index.html)
 
