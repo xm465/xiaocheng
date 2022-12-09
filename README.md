@@ -19,11 +19,7 @@ This is my portfolio for Telling Story with Data at CMU!
 ## 2. Data visualization critique 
    - [Critique by Design](https://xm465.github.io/xiaocheng//CritiquebyDesign.html)
 
-## 3. Third item in portfolio
-   - First nested list item
-     - Second nested list item## Final project 
-
-## Final Project - How to not abandon your pets
+## 3. Final Project - How to not abandon your pets
 
 - Final Project Part III - Shorthand 
   - [This is my final data story.](https://carnegiemellon.shorthandstories.com/how-to-not-abandon-your-pets/index.html)
