@@ -24,4 +24,14 @@ My audience is those who are pet owners and those who will be potential pet owne
 
 I made radar charts for consideration when people looking for new pets. There are multiple age groups so I made four radar charts, while they worked in a way, one of my classmates reminds me that in the merged version of the radar charts, some color-blind people may have a difficult time distinguishing red and green radar charts. In my part III, I changed the radar chart color to make each group more distinguishable. The issue with red and green sometimes will be easily ignored, especially for separate radar charts. 
 
+## Reference
+
+“44 Shocking Animal Shelter Statistics (2022 Update).” Petpedia, February 18, 2022. https://petpedia.co/animal-shelter-statistics/#30%%20of%20animals%20in%20shelters.
+
+Powell, Lauren, Chelsea Reinhard, Donya Satriale, Margaret Morris, James Serpell, and Brittany Watson. “Characterizing Unsuccessful Animal Adoptions: Age and Breed Predict the Likelihood of Return, Reasons for Return and Post-Return Outcomes.” Nature News. Nature Publishing Group, April 13, 2021. https://www.nature.com/articles/s41598-021-87649-2.
+
+“Animal Welfare Statistics.” Best Friends Animal Society - Save Them All. Accessed December 6, 2022. https://bestfriends.org/no-kill-2025/animal-welfare-statistics#4.
+
+“Overcoming Adoption Barriers Research: Executive Summary.” Best Friends. Accessed December 6, 2022. https://network.bestfriends.org/sites/default/files/inline-files/Adoption-Barrier-Study-Executive-Summary-Best%20Friends-062717.pdf. 
+
 
