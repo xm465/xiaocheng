@@ -32,6 +32,4 @@ Powell, Lauren, Chelsea Reinhard, Donya Satriale, Margaret Morris, James Serpell
 
 “Animal Welfare Statistics.” Best Friends Animal Society - Save Them All. Accessed December 6, 2022. https://bestfriends.org/no-kill-2025/animal-welfare-statistics#4.
 
-“Overcoming Adoption Barriers Research: Executive Summary.” Best Friends. Accessed December 6, 2022. https://network.bestfriends.org/sites/default/files/inline-files/Adoption-Barrier-Study-Executive-Summary-Best%20Friends-062717.pdf. 
-
-
+“Overcoming Adoption Barriers Research: Executive Summary.” Best Friends. Accessed December 6, 2022. https://network.bestfriends.org/sites/default/files/inline-files/Adoption-Barrier-Study-Executive-Summary-Best%20Friends-062717.pdf
