@@ -14,14 +14,23 @@ With all the data visualization and storytelling technique I will be learning, I
 This is my portfolio for Telling Story with Data at CMU!
 
 ## 1. General government debt 
- <iframe src="https://data.oecd.org/chart/6SeK" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SeK" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+   - [Data visualization](https://xm465.github.io/xiaocheng//dataviz2.html)
 
-## 2. Second item in portfolio
-   - First nested list item
-     - Second nested list item
+## 2. Data visualization critique 
+   - [Critique by Design](https://xm465.github.io/xiaocheng//CritiquebyDesign.html)
 
 ## 3. Third item in portfolio
    - First nested list item
      - Second nested list item## Final project 
 
-## Final Project
+## Final Project - How to not abandon your pets
+
+- Final Project Part III - Shorthand 
+  - [This is my final data story.](https://carnegiemellon.shorthandstories.com/how-to-not-abandon-your-pets/index.html)
+
+
+- Final Project Part I 
+  - [ Part I ](https://xm465.github.io/xiaocheng//final_project_Cheng.html)
+
+- Final Porject Part II
+  - [ Part II ](https://xm465.github.io/xiaocheng//Final_PartII.html)
